@@ -15,7 +15,7 @@ height:150px;
 margin: auto;
 border-radius:50%;
 opacity:0.5;
-transition:2s;
+transition:1s;
 box-shadow: 10px 10px 15px rgb(90, 136, 136);
 }
 #red{
